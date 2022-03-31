@@ -1,0 +1,1 @@
+SELECT * FROM tv_show.shows;
